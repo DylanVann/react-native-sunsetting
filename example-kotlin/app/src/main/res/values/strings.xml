@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Sunset</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_first">First View</string>
+    <string name="title_second">Second View</string>
+    <string name="description_first">Loaded by MainActivity</string>
+    <string name="description_second">Loaded by MainActivity</string>
 </resources>
